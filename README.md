@@ -12,7 +12,7 @@ This project analyzes retail sales data using PostgreSQL for querying, Power BI 
 - Exported results to CSV from PostgreSQL
 
 ## 📊 Dashboard
-![Dashboard Screenshot](powerbi/dashboard_screenshot.png)
+![Dashboard Screenshot](powerbi/sales data snap.JPG)
 
 ## 📁 Folders
 - `sql/` → Contains all SQL queries used
