@@ -11,8 +11,9 @@ This project analyzes retail sales data using PostgreSQL for querying, Power BI 
 - Wrote analytical queries using `GROUP BY`, `JOIN`, `ORDER BY`, etc.
 - Exported results to CSV from PostgreSQL
 
-### 📷 Power BI Dashboard Snapshot
+### 📊 Power BI Dashboard (Extended View)
 
-![Sales Dashboard Screenshot](https://github.com/moonjalal9695/Sales-Performance-Analytics-Dashboard/blob/main/sales%20data%20snap.JPG?raw=true)
+![Sales Dashboard - Full View](https://github.com/moonjalal9695/Sales-Performance-Analytics-Dashboard/blob/main/ss.JPG?raw=true)
+
 
 
